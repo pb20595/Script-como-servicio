@@ -4,6 +4,7 @@ Generación de un servicio windows a partir de un script en powershell para que 
 Funciona de la siguiente forma:
 
 Definimos variables dentro de powershell:
+
 -Nombre que daremos a nuestro servicio:
 $NombreServicio = 'DesplieguesAzureIBERIA'
 -Ruta del ejecutable de PowerShell:
